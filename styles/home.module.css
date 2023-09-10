@@ -1,0 +1,38 @@
+.container {
+  background: #000;
+  height: 100vh;
+  color: #fff;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center
+}
+
+.container ul {
+  list-style: none;
+  padding: 0;
+}
+
+.container ul li {
+  margin: 18px 0; 
+  width: 100%;
+  display: flex;
+  text-align: center;
+}
+
+.container ul li a{
+  width: 100%;
+  padding: 8px 18px;
+  background-color: #1b1b1b;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 100px;
+  transition: all 0.5s;
+  font-size: 14px;
+}
+
+.container ul li a:hover{
+  background-color: #FEBA0A;
+  color: #000;
+}
