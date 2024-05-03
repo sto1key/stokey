@@ -12,10 +12,7 @@ export default function Home() {
         </li>
         <li>
           <a href="https://discord.gg/KxuYpY8RFx" target="_blank">Comunidade Discord</a>
-        </li>
-        <li>
-          <a href="https://blog.stokey.com.br/" target="_blank">Blog</a>
-        </li>
+        </li>        
         <li>
           <a href="https://www.instagram.com/sto1key/" target="_blank">Instagram</a>
         </li>
